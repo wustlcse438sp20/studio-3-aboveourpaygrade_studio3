@@ -1,4 +1,4 @@
-package com.example.cse438_rest_studio.Network
+package com.example.cse438.studio3.Network
 
 import retrofit2.Retrofit
 import retrofit2.converter.moshi.MoshiConverterFactory
